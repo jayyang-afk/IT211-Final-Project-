@@ -1,5 +1,16 @@
 # IT211-Final-Project-
 
+Project description, how to run the program
+
+
+        python main.py # For a Python script
+        node app.js # For a Node.js application
+        ./executable_name # For a compiled executable
+        java -jar program.jar # For a Java JAR file
+
+
+
+
 #Yang_P1P1.py
 Bring a code(math) to P1P3.
 Side Length question("Enter the the side of an octagon:")
